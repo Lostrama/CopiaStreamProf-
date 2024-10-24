@@ -5,7 +5,7 @@
 package com.mycompany.streamjavaByte;
 
 import java.io.*;
-
+ 
 /**
  *
  * @author frida
